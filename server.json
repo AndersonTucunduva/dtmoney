@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-04T20:05:14.280Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-06-03T20:05:14.280Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-06-05T20:05:14.280Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 60,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-10T21:15:11.321Z",
+      "id": 4
+    },
+    {
+      "description": "Cerveja",
+      "price": 21,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-10T21:19:11.806Z",
+      "id": 5
+    },
+    {
+      "description": "Salgados",
+      "price": 88,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-10T21:37:39.791Z",
+      "id": 6
+    },
+    {
+      "description": "Aluguel",
+      "price": 2000,
+      "category": "Aluguel",
+      "type": "outcome",
+      "createdAt": "2023-06-10T21:53:43.460Z",
+      "id": 7
+    },
+    {
+      "description": "Aluguel",
+      "price": 2000,
+      "category": "Aluguel",
+      "type": "outcome",
+      "createdAt": "2023-06-10T22:57:19.184Z",
+      "id": 8
+    },
+    {
+      "description": "Cqsab",
+      "price": 150,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-21T11:49:31.213Z",
+      "id": 9
+    }
+  ]
+}
